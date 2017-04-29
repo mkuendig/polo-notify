@@ -1,0 +1,2 @@
+sendgrid
+git+git://github.com/s4w3d0ff/python-poloniex.git#egg=poloniex
