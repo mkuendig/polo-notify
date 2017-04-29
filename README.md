@@ -3,7 +3,7 @@ Python3 Script to check Poloniex for trades and send an email via Sendgrid
 
 # Download the repo with:
 
-git clone https://github.com/mkuendig/polo-notify
+`git clone https://github.com/mkuendig/polo-notify`
 
 # Insert in to the script:
 
