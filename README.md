@@ -13,9 +13,9 @@ Email address for from and to
 
 # Python
 
-Use the script directly with python3 polo-notify.py
+Use the script directly with `python3 polo-notify.py`
 
 # Docker
 
-1. docker build -t polo-notify .
-2. docker run -it polo-notify
+1. `docker build -t polo-notify .`
+2. `docker run -it polo-notify`
