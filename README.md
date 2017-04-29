@@ -7,9 +7,9 @@ git clone https://github.com/mkuendig/polo-notify
 
 # Insert in to the script:
 
-Poloniex API and Secret
-Sendgrid API
-Email address for from and to
+Poloniex API and Secret  
+Sendgrid API  
+Email address for from and to  
 
 # Python
 
